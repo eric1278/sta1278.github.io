@@ -2,7 +2,7 @@
 
 ### What is the STA, Spy Technology Association?
 <i>It is a association Eric Curnow created.</i>
-This association lets you program(especially Python) and do spy things.
+This association lets you program(especially Python) and do no spy things. It's just a name.
 <b>But we're just kids, why so serious?</b>
 These are some Python codes:
 
